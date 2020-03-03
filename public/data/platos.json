@@ -1,0 +1,242 @@
+[
+    {
+      "id":"1",
+      "tipo":"primero",
+      "name":"Arroz caldoso con verduras"
+    },
+    {
+        "id":"2",
+        "tipo":"segundo",
+        "name":"Revuelto de jamón york con ensalada"
+    },
+    {
+        "id":"3",
+        "tipo":"postre",
+        "name":"Fruta"
+    },
+    {
+        "id":"4",
+        "tipo":"postre",
+        "name":"Yogurt Natural"
+    },
+    {
+        "id":"5",
+        "tipo":"primero",
+        "name":"Pastel de verduras"
+    },
+    {
+        "id":"6",
+        "tipo":"segundo",
+        "name":"Huevos rellenos de atún con ensalada"
+    },
+    {
+        "id":"7",
+        "tipo":"merienda",
+        "name":"Pan Integral con queso fresco y tomate"
+    },
+    {
+        "id":"8",
+        "tipo":"primero",
+        "name":"Crema de calabacín"
+    },
+    {
+        "id":"9",
+        "tipo":"segundo",
+        "name":"Tortilla de patatas con ensalada"
+    },
+    {
+        "id":"10",
+        "tipo":"postre",
+        "name":"Yogurt con avena"
+    },
+    {
+        "id":"11",
+        "tipo":"primero",
+        "name":"Creama de calabaza"
+    },
+    {
+        "id":"12",
+        "tipo":"segundo",
+        "name":"Tortilla de queso con ensalada"
+    },
+    {
+        "id":"13",
+        "tipo":"primero",
+        "name":"Fideua"
+    },
+    {
+        "id":"14",
+        "tipo":"segundo",
+        "name":"Carne blanca del día asada con pimientos y zanahorias"
+    },
+    {
+        "id":"15",
+        "tipo":"merienda",
+        "name":"Queso fresco"
+    },
+    {
+        "id":"16",
+        "tipo":"primero",
+        "name":"Lentejas estofadas con verduras"
+    },
+    {
+        "id":"17",
+        "tipo":"segundo",
+        "name":"Pesacdo blanco del día a la hortelana (tomate,cebolla,calabacín)"
+    },
+    {
+        "id":"18",
+        "tipo":"primero",
+        "name":"Paella de verduras"
+    },
+    {
+        "id":"19",
+        "tipo":"segundo",
+        "name":"Pescado blanco del día con ensalada"
+    },
+    {
+        "id":"20",
+        "tipo":"primero",
+        "name":"Sopa de cocido"
+    },
+    {
+        "id":"21",
+        "tipo":"segundo",
+        "name":"Cocido de garbanzos con zanahorias"
+    },
+    {
+        "id":"22",
+        "tipo":"merienda",
+        "name":"Pechuga de pavo con pan integral"
+    },
+    {
+        "id":"23",
+        "tipo":"primero",
+        "name":"Judias verdes con tomate"
+    },
+    {
+        "id":"24",
+        "tipo":"segundo",
+        "name":"Guiso de chipirones con patatas"
+    },
+    {
+        "id":"25",
+        "tipo":"primero",
+        "name":"Sopa maravilla"
+    },
+    {
+        "id":"26",
+        "tipo":"segundo",
+        "name":"Carne roja del día guisada a la jardinera"
+    },
+    {
+        "id":"27",
+        "tipo":"merienda",
+        "name":"Jamón York con pan integral"
+    },
+    {
+        "id":"28",
+        "tipo":"primero",
+        "name":"Alubias estofadas"
+    },
+    {
+        "id":"29",
+        "tipo":"segundo",
+        "name":"Carne roja del día en salsa con ensalada"
+    },
+    {
+        "id":"30",
+        "tipo":"primero",
+        "name":"Patatas guisadas"
+    },
+    {
+        "id":"31",
+        "tipo":"segundo",
+        "name":"Pescado blanco del día con ensalada"
+    },
+    {
+        "id":"32",
+        "tipo":"segundo",
+        "name":"Cocido de garbanzos"
+    },
+    {
+        "id":"33",
+        "tipo":"primero",
+        "name":"Alubias negras con arroz"
+    },
+    {
+        "id":"34",
+        "tipo":"segundoo",
+        "name":"Carne blanca del día con pure de zanahorias"
+    },
+    {
+        "id":"35",
+        "tipo":"merienda",
+        "name":"Queso tierno de cuña"
+    },
+    {
+        "id":"36",
+        "tipo":"primero",
+        "name":"Pasta napolitana"
+    },
+    {
+        "id":"37",
+        "tipo":"segundo",
+        "name":"Marmitako de pescado azul"
+    },
+    {
+        "id":"38",
+        "tipo":"merianda",
+        "name":"Jamón cocido con pan integral"
+    },
+    {
+        "id":"39",
+        "tipo":"primero",
+        "name":"Alubias pintas estofadas"
+    },
+    {
+        "id":"40",
+        "tipo":"segundo",
+        "name":"Carne blanca del día al horno con ensalada"
+    },
+    {
+        "id":"41",
+        "tipo":"primero",
+        "name":"Guisantes con jamón"
+    },
+    {
+        "id":"42",
+        "tipo":"segundo",
+        "name":"Dados de pescado blanco del día con ensalada"
+    },
+    {
+        "id":"43",
+        "tipo":"primero",
+        "name":"Patatas a la riojana"
+    },
+    {
+        "id":"44",
+        "tipo":"segundo",
+        "name":"Pescado azul del día con pimientos"
+    },
+    {
+        "id":"45",
+        "tipo":"primero",
+        "name":"Cocido de repollo"
+    },
+    {
+        "id":"46",
+        "tipo":"segundo",
+        "name":"Hamburguesa con guarnición de puré de patatas"
+    },
+    {
+        "id":"47",
+        "tipo":"primero",
+        "name":"Cocido de arroz, patata y zanahoria"
+    },
+    {
+        "id":"48",
+        "tipo":"segundo",
+        "name":"Zarzuela de pescado blanco"
+    }
+  ]
